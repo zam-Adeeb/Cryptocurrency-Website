@@ -29,5 +29,5 @@ This project is built using HTML, CSS, and JavaScript, with no external framewor
 
 ## 🙏 Acknowledgments
 
-CoinGecko API
-YouTube tutorials and web development communities
+- CoinGecko API
+- YouTube tutorials and web development communities
